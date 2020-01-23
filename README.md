@@ -1,4 +1,5 @@
 # pokemonsasda
+file too large to commit
 
 project:use Gans and dcGan to generate pokemon
 
